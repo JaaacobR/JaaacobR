@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Elixir and Phoenix Web Framework.**
 
-- 📄 Know about my experiences [in/jakub-ryszka-7b918622a](in/jakub-ryszka-7b918622a)
+- 📄 Know about my experiences [Jakub Ryszka](https://www.linkedin.com/in/jakub-ryszka-7b918622a/)
 
 
 <h3 align="left">Languages and Tools:</h3>
