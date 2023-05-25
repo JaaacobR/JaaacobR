@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">I'm 18yo Software Developer from Poland. I've been React Native Developer since June 2022. I'm interested in Mobile Apps development (mainly React Native + Native Modules). Additionally, in my free time I'm learning Elixir and Phoenix Web Framework.</h3>
+<h3 align="center">I'm 18yo Software Developer from Poland. I've been React Native Developer since June 2022. I'm interested in Mobile Apps development (mainly React Native + Native Modules). Additionally, in my free time, I'm learning Elixir and Phoenix Web Framework.</h3>
 
 - 🔭 I’m currently working on **Spotify App and Social Media App.**
 
