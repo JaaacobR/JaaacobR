@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">I'm 19yo Software Developer from Poland. I've been React Native Developer since June 2022. I'm interested in Mobile Apps development (mainly React Native).</h3>
+<h3 align="center">I'm 20yo Software Developer from Poland. I've been React Native Developer since June 2022. I'm interested in Mobile Apps development (mainly React Native).</h3>
 
 - 🔭 I’m currently working on **OnlineStore**
 
